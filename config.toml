@@ -1,0 +1,5 @@
+baseURL = "https://rmflight.github.io/symbiosysnovel"
+languageCode = "en-us"
+title = "Symbiosis"
+publishDir = "docs"
+Theme = "book"
